@@ -1,2 +1,2 @@
-# CourceraTest
-Coursera test repository
+# Front-End-Dev
+Front End Development Repository
